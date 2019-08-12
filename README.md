@@ -1,2 +1,0 @@
-# CCI
-Created with CodeSandbox
